@@ -23,21 +23,19 @@
 
 <br><br>
 
-![presentation_Screen](https://user-images.githubusercontent.com/59856984/160257811-17d29a5d-7b5b-431d-94a8-ac63c53b8898.jpg)
+![app final show off](https://user-images.githubusercontent.com/59856984/221889577-f66fd9ce-3d75-4caf-a3d4-922640a55a7f.jpg)
 
 <br>
 
-# About the project
+# Everything in one place!
 
-<img src="https://user-images.githubusercontent.com/59856984/160259934-057ca176-c4be-4af9-8883-226459f7fb29.gif">
-
-<h1>Everything in one place!</h1>
+Mood-Fi is the best place to relax and listen to a lo-fi live stream. It's a free software app with 30+ lo-fi live streams between 8 different lo-fi types. Take a break, relax and be mood, be Mood-Fi.
 
 <h3>Built with</h3>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF">
 
 <h2>Stay tuned! Mood-Fi is evolving...</h2>
 
