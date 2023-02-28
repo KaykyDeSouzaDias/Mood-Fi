@@ -1,8 +1,9 @@
 <div align=center>
-  <img src="https://user-images.githubusercontent.com/59856984/160259444-52d8b682-791a-4f4a-b13f-fe714406f61a.png">
+  <img src="https://user-images.githubusercontent.com/59856984/221919477-3d9de3cc-b562-4b08-968b-3d3e4f08dde7.jpg">
 </div>
 
 <br><br>
+
 
 <h1 align=center> Welcome to Mood-Fi </h1>
 
@@ -39,7 +40,7 @@ Mood-Fi is the best place to relax and listen to a lo-fi live stream. It's a fre
 
 <h2>Stay tuned! Mood-Fi is evolving...</h2>
 
-Mood-Fi officially launched as version 1.0.0 on 28th of March, however a lot of new features are coming. Watch releases of this repository or follow me on my social medias to be notified for future updates:
+Mood-Fi officially launched as version 1.0.0 on 28th of March 2022, however a lot of new features are coming up. Wait for updates on the app, watch out for updates in this repository or follow me on my social medias to be notified for future updates:
 
 ![GIF_StayTuned_Mood-Fi](https://user-images.githubusercontent.com/59856984/160283875-4fba3451-ee55-482d-bb35-b676410886b3.gif)
 
